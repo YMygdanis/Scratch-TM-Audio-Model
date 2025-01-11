@@ -46,7 +46,7 @@
                         arguments: {
                             URL: {
                                 type: Scratch.ArgumentType.STRING,
-                                defaultValue: 'https://teachablemachine.withgoogle.com/models/Lm-L8KJ-5/'
+                                defaultValue: 'https://teachablemachine.withgoogle.com/models/modelID/'
                             }
                         }
                     },
